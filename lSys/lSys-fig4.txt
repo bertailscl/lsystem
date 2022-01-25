@@ -1,0 +1,7 @@
+axiom = "a-a-a-a"
+rules = 
+	"a=a+a*a+a+aa*aa+a+a*a+a"
+angle  = 90
+level = 3
+length = 3
+

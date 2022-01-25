@@ -1,0 +1,7 @@
+axiom = "-Ya"
+rules =
+    "X=XaX-Ya-Ya+aX+aX-Ya-YaaX+Ya+aXaXYa-aX+Ya+aXaX+Ya-aXYa-Ya-aX+aX+YaYa-"
+    "Y=+aXaX-Ya-Ya+aX+aXYa+aX-YaYa-aX-Ya+aXYaYa-aX-YaaX+aX+Ya-Ya-aX+aX+YaY"
+angle  = 90
+length = 4
+level = 3

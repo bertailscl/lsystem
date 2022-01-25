@@ -1,0 +1,6 @@
+axiom = "*a"
+rules =
+    "a=-a++a-"
+angle  = 45
+length = 3
+level = 14

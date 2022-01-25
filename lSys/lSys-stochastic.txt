@@ -1,0 +1,7 @@
+axiom = "---c"
+rules = 
+    "c=cad[+c][-c]
+    "d=d[-ccc][+ccc]cd
+level = 7
+length = 2
+angle = 30

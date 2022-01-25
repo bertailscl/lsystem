@@ -1,0 +1,7 @@
+axiom = "ax"
+rules = 
+	"x=x+ya+"
+    "y=-ax-y"
+angle  = 90
+level = 13
+length = 5

@@ -1,0 +1,6 @@
+axiom = "---a"
+rules = 
+	"a=a[-a]a[+a]a"
+angle  = 30
+level = 3
+length = 15
