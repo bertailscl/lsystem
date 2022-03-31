@@ -1,7 +1,7 @@
 # TP10
 ## By Clément Bertails
-Containing tp10
-
+Containing a program that simulates an L-system
+<!-- 
 ## Using the Program
 Use "make" to compile and execute ./tp10_hangMan {path of word's file}
 
@@ -28,3 +28,4 @@ Run "make restore": restore the backup from the save folder.
 
 ## Archive the program
 Run "make give": a ready-to-give archive is created.
+ -->
