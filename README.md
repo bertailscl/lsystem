@@ -1,4 +1,4 @@
-# TP10
+# L-System
 ## By Clément Bertails
 Containing a program that simulates an L-system
 <!-- 
