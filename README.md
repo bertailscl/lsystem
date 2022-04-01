@@ -1,6 +1,6 @@
 # L-System
 ## By Clément Bertails
-Containing a program that simulates an L-system
+Contient un programme permettant de simuler un l-système.
 <!-- 
 ## Using the Program
 Use "make" to compile and execute ./tp10_hangMan {path of word's file}
